@@ -9,7 +9,6 @@ empire_strikes_back = media.Movie("Empire Strikes Back",
         "https://t1.gstatic.com/images?q=tbn:ANd9GcTtXwQAEDxEY3E9Nn78H96VZCjlV6hZWPlDd5IpVNyeuzO2vT17",
         "https://www.youtube.com/watch?v=JNwNXF9Y6kY")
 
-print(empire_strikes_back.title)
 
 blade_runner = media.Movie("Blade Runner",
         "Description",
