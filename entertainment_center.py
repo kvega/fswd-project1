@@ -9,7 +9,8 @@ empire_strikes_back = media.Movie("Empire Strikes Back",
                                   "https://t1.gstatic.com/images?q=tbn:ANd9G" +
                                   "cTtXwQAEDxEY3E9Nn78H96VZCjlV6hZWPlDd5IpVN" +
                                   "yeuzO2vT17",
-                                  "https://www.youtube.com/watch?v=JNwNXF9Y6kY")
+                                  "https://www.youtube.com/watch?v=JNwNXF9Y6kY"
+                                  )
 
 
 blade_runner = media.Movie("Blade Runner",
